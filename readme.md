@@ -1,4 +1,5 @@
-Game - Pong | in Javascript
+***
+                     Game - Pong | in Javascript 
 
 Pong: game com tema de tênis de mesa para jogadores. Envolve duas pás e uma bola em movimento, os players devem mover as pás para cima ou para baixo e evitar que a bola seja atingida na parede. 
 
